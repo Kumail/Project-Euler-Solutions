@@ -10,4 +10,4 @@ for x in range(limit+1):
 squareOfSum = squareOfSum * squareOfSum
 
 difference = squareOfSum - sumOfSquare
-print("Difference= ", difference)
+print("Difference =", difference)
